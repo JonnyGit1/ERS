@@ -1,7 +1,15 @@
-/* #foot
+#foot
 {
-    background-color: rgba(25, 25, 53, 0.651);
+    background-color: rgba(34, 114, 180, 0.514);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(111, 132, 170);
-    background-size:cover !important;
-} */
+    color: rgb(28, 32, 37);
+    height:40px !important;
+    margin-bottom: 0px !important;
+}
+
+#cap
+{
+    margin-bottom: 0 !important;
+    padding-left: 10px;
+    padding-top: 10px;
+}
