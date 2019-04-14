@@ -1,0 +1,10 @@
+#mlog
+{
+    background:url('../../../assets/images/manager-login.jpg') !important;
+    background-size:cover !important;
+    min-height: 100vh;
+} 
+#mlform
+{
+    padding:150px;
+}
