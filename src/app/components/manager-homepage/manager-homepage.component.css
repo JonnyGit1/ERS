@@ -1,5 +1,6 @@
-html
+#mhp
 {
-background:url('../../../assets/images/christian-wiediger-1461114-unsplash.jpg')
-
-}
+    background:url('../../../assets/images/manager-homepage.jpg') !important;
+    background-size:cover !important;
+    min-height: 100vh;
+} 

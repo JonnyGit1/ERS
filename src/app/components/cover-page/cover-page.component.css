@@ -9,11 +9,12 @@ div
 
 #cpage
 {
-    background:url('../../../assets/images/christian-wiediger-1461114-unsplash.jpg') !important;
+    background:url('../../../assets/images/spiral-stair.jpg') !important;
     background-size:cover !important;
     min-height: 100vh;
 } 
 #slogan
 {
+padding:12px;
 background-color: #5fadc569;
 }

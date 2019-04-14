@@ -1,6 +1,10 @@
 #elog
 {
-    background:url('../../../assets/images/thanai-manasathit-1501389-unsplash.jpg') !important;
+    background:url('../../../assets/images/employee-login.jpg') !important;
     background-size:cover !important;
     min-height: 100vh;
 } 
+#elform
+{
+    padding:15px;
+}
