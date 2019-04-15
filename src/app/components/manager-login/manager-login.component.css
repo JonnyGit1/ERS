@@ -3,8 +3,17 @@
     background:url('../../../assets/images/manager-login.jpg') !important;
     background-size:cover !important;
     min-height: 100vh;
+    background-position-y: -850px !important;
 } 
 #mlform
 {
+    /* padding-right: 200px;
+    padding-left:100px; */
     padding:150px;
 }
+/* #form-back
+{
+    padding-right: 200px;
+    padding-left:100px;
+    background-color: rgba(245, 245, 220, 0.247);
+} */

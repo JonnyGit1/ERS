@@ -4,3 +4,14 @@
     background-size:cover !important;
     min-height: 100vh;
 } 
+
+#card
+{
+    padding-top:100px;
+    padding-left:75px;
+}
+#c
+{
+   max-width: 15rem;
+   max-height: 13rem;
+}

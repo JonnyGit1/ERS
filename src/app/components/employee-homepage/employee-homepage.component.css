@@ -1,0 +1,8 @@
+#ehome
+{
+    background: url('../../../assets/images/employee-homepage.jpg');
+    background-size: cover !important;
+    min-height: 100vh;
+    background-position-y: -450px !important;
+
+}
