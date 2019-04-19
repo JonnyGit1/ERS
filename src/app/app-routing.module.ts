@@ -5,7 +5,7 @@ import {EmployeeLoginComponent}from '../app/components/employee-login/employee-l
 import { CoverPageComponent } from './components/cover-page/cover-page.component';
 import { ManagerHomepageComponent } from './components/manager-homepage/manager-homepage.component';
 import { ManagerLoginComponent } from './components/manager-login/manager-login.component';
-import { EmployeeRequestComponent } from './components/employee-request/employee-request.component';
+import { EmployeeRequestComponent } from '../app/components/employee-request/employee-request.component';
 import { ManagerApprovalComponent } from './components/manager-approval/manager-approval.component';
 
 
@@ -24,6 +24,10 @@ const routes: Routes = [
   component: EmployeeLoginComponent
 },
 {
+  path: 'request',
+  component: EmployeeRequestComponent
+},
+{
   path: 'mhomepage',
   component: ManagerHomepageComponent
 },
@@ -32,14 +36,9 @@ const routes: Routes = [
   component: ManagerLoginComponent
 },
 {
-  path: 'erequest',
-  component: EmployeeRequestComponent
-},
-{
   path: 'mapproval',
   component: ManagerApprovalComponent
 }
-
 ];
 
 @NgModule({
